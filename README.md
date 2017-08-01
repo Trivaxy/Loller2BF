@@ -1,2 +1,2 @@
 # Loller2BF
-A BrainLoller to BF Code translator.
+A BrainLoller to BF Code transpiler.
